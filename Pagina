@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NASA Exploration</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#missions">Missions</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <h1>Explore the Universe</h1>
+        <p>Welcome to NASA's web journey through space exploration</p>
+        <button>Discover More</button>
+    </section>
+
+    <section id="about">
+        <h2>About NASA</h2>
+        <p>NASA is at the forefront of space exploration, pushing the boundaries of what we know about the universe.</p>
+    </section>
+
+    <section id="missions">
+        <h2>Space Missions</h2>
+        <p>Learn about NASA's missions to explore planets, moons, and beyond.</p>
+    </section>
+
+    <section id="gallery">
+        <h2>Gallery</h2>
+        <p>Check out amazing photos from various space missions.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 NASA Exploration. All rights reserved.</p>
+    </footer>
+</body>
+</html>
